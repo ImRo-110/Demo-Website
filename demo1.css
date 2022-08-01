@@ -26,11 +26,13 @@ body {
 .jio_logo {
     text-align: center;
     width: 5%;
+    /* position: fixed; */
+    display: flex;
 }
 
 .header-links{
     width: 55%;
-    float: left;
+    float:right;
     flex-wrap: wrap;
     /* display: flex; */
 }
@@ -57,7 +59,7 @@ body {
 }
 .nav-container {
     /* overflow: hidden; */
-    background: rgb(17, 135, 233);
+    background: rgb(121, 195, 197);
     display: flex;
     height: 75px;
     position: relative;
@@ -73,7 +75,7 @@ body {
     .jio-logo img {
         width: 60;
         height: 20;
-        position: fixed;
+        /* position: fixed; */
         padding-left: 8rem;
     right: 0;
     top: 0;
@@ -248,7 +250,7 @@ body {
         float: none;
         display: flex;
         text-align: left;
-        background: rgb(17, 135, 233);
+        background: none;
         /* display: flex; */
         height: 35px;
         /* position: relative; */
