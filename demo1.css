@@ -176,6 +176,12 @@ body {
 
         
     }
+    .search{
+        /* align-self: flex-end; */
+        /* padding: 5rem; */
+        width: "30";
+        align-self: right;
+    }
        
         /* .apps-flex .item1 {
             width: "20";
