@@ -1,0 +1,13 @@
+16/07/22:
+Make page responsive: Fix Discover Jio Done
+Hamburger Not Done
+Hover Drop Down NOt Done
+
+17/07/22:
+Introduce more breakpoint
+Hamburger
+Decrease font size on breakpoint
+Git and Git Hub
+
+
+
